@@ -43,7 +43,7 @@ h1 {
 
  @media (max-width:415px) {
        div.gallery {
-    margin: 9px;
+      margin: 2% 14%;
     border: 1px solid rgb(0, 90, 68);
     float: left;
     width: auto;
